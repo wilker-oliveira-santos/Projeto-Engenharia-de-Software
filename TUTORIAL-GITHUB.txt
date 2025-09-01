@@ -44,8 +44,11 @@ documento por mais de uma pessoa ao mesmo tempo.
 6. Faça o check-in de seu artefato e descreva o que a
 ferramenta registra ao fazê-lo.
 
-	Responda aq 
+	A ferramenta(GitHub), registra o check-in com o comando git commit quando feito localmente e utiliza o comando git push quando utilizado de forma remota.
+	O mesmo registra dados como documento atualizado,autor do commit, mensagem do commit(feita pelos desenvolvedores) e data e hora da atualização.
 
 7. Descreva como é feita a auditoria de configuração
-	Responda aq
+
+	No GitHub, o controle das alterações é realizado por meio do histórico de commits. Esse registro permite acompanhar: O autor da modificação, a data e hora em que a mudança foi feita, os detalhes do que foi alterado no código ou nos arquivos e a branch específica onde essa atualização foi aplicada.
+
 
